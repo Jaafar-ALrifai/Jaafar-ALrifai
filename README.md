@@ -21,7 +21,7 @@
 ## 📫 How to reach me ...
 - LinkedIn: [Jaafar Al-Rifai](https://www.linkedin.com/in/jaafar-al-rifai-00aa77212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 - GitHub: [@Jaafar-ALrifai](https://github.com/Jaafar-ALrifai)
-- Email: jaafar.alrifai@example.com (replace with your actual email)
+- Email: jaafar.alrifai@isae.edu.lb
 
 ## 😄 Pronouns: He/Him
 
