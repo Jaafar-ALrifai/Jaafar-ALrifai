@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **LinkedIn: Jaafar Al-Rifai. GitHub: @Jaafar-ALrifai .Email: jaafar.alrifai@isae.edu.lb**
 
-- ⚡ Fun fact **I have a passion for exploring new technologies and am always eager to learn and implement cutting-edge solutions in my projects.**
+- ⚡  **I have a passion for exploring new technologies and am always eager to learn and implement cutting-edge solutions in my projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
